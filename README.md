@@ -39,7 +39,7 @@ Implemented Audience API supports enables newscrop to target customer on second 
 
 | domain | Projects | Comments  |
 |------|:----|:---|
-| devops |   [agile_conf](https://github.com/tly1980/agile_conf) |  CFN generation |
+| devops |   [agile_conf](https://github.com/tly1980/agile_conf) |  CFN generation using [Ninja2](http://jinja.pocoo.org) templates |
 | devops | [provisioner](https://github.com/tly1980/provisioner)  | Server continus provisioning Using S3 / Gsutils  |
 | tools | [dynoclone](https://github.com/tly1980/dynoclone)  | DynamoDB clone tool |
 | tools | [senv](https://github.com/tly1980/dynoclone)  | Secure your env using Mac keychain |
