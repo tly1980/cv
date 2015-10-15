@@ -16,7 +16,7 @@ Implemented Audience API supports enables newscrop to target customer on second 
 
 1. Maintain and enhance the user id Graph modeling tool to group all the related ID mappings.
 
-2. Implemented a dynamodb ingestion tool ships segment attributes at 9000TPS with a ec2 t2.small instance.
+2. Implemented a dynamodb ingestion tool ships segment attributes at 900 TPS with a ec2 t2.small instance.
 
 3. Implemented a dynamodb table clone tool tops at 3500 TPS on a single EC2 m3.medium instance (tested with table with 50 millions records ), whereares the AWS offical data pipeline (beta version) failed to clone the tables in a EMR cluster.
 
