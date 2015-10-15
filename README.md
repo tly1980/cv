@@ -28,7 +28,7 @@ Implemented Audience API supports enables newscrop to target customer on second 
 
 ### BTW:
 
-1. Probably the first one to use AWS Kinesis for project, as he found a blocking bug in BOTO (AWS official python sdk) and fix it and created pull-request to BOTO (PR was accepted.) on github.
+1. Probably the first one to use AWS Kinesis for project, as he found a blocking bug in BOTO (AWS official python sdk) and fix it and created [pull-request](https://github.com/boto/boto/pull/2434) to BOTO ( was accepted) on github.
 
 2. They all run on AWS ec2 and heavly use AWS service ( SQS / Kinesis / DynamoDB / S3 / EC2-ELB / EC2-Autoscalegroup ) and some of the project run on docker container on top of EC2
 
