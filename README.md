@@ -3,7 +3,7 @@
 
 ###Using python:
 
-1. Implemented a pixel server tracks 40+ millions pageviews/day across all newscorp digital properties (news.com.au, dailytelegraph, taste.com.au, ... etc.).
+1. Implemented a pixel server tracks 40+ millions pageviews/day across all [Newscorp](http://www.newscorpaustralia.com) digital properties (news.com.au, dailytelegraph, taste.com.au, ... etc.).
 
 2. 
 Implemented Audience API supports enables newscrop to target customer on second pageview.
