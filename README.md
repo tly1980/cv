@@ -28,9 +28,9 @@ Implemented Audience API supports enables newscrop to target customer on second 
 
 ### BTW:
 
-1. Probably the first one to use AWS Kinesis for project, as he found a blocking bug in BOTO (AWS official python sdk) and fix it and created [pull-request](https://github.com/boto/boto/pull/2434) to BOTO ( was accepted) on github.
+1. Probably the first one to use AWS Kinesis for project, as he found a blocking bug in [boto (AWS official python sdk)](https://github.com/boto/boto) and fix it and created [pull-request](https://github.com/boto/boto/pull/2434) to [boto](https://github.com/boto/boto) on github, and it was [accepted](https://github.com/boto/boto/pull/2434).
 
-2. They all run on AWS ec2 and heavly use AWS service ( SQS / Kinesis / DynamoDB / S3 / EC2-ELB / EC2-Autoscalegroup ) and some of the project run on docker container on top of EC2
+2. They all run on AWS ec2 and heavly use AWS service ( SQS / Kinesis / DynamoDB / S3 / EC2-ELB / EC2-Autoscalegroup / SNS / RDS ) and some of the project run on docker container on top of EC2
 
 3. What is mentioned above mostly implemented by himself.
 
@@ -42,6 +42,8 @@ Implemented Audience API supports enables newscrop to target customer on second 
 | devops |   [agile_conf](https://github.com/tly1980/agile_conf) |  CFN generation using [Ninja2](http://jinja.pocoo.org) templates |
 | devops | [provisioner](https://github.com/tly1980/provisioner)  | Server continus provisioning Using S3 / Gsutils  |
 | tools | [dynoclone](https://github.com/tly1980/dynoclone)  | DynamoDB clone tool |
-| tools | [senv](https://github.com/tly1980/dynoclone)  | Secure your env using Mac keychain |
+| tools | [senv](https://github.com/tly1980/dynoclone)  | Secure your enviornment variables using Mac keychain |
+
+Here is my other [github projects](http://github.com/tly1980/) or my [slides](https://slides.com/liyingtang).
 
 
